@@ -1,23 +1,17 @@
-<h1>👨‍💻 Gonçalo Silva</h1>
-<h3>Software Engineering Student | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Gonçalo Silva</h1>
 
-<p>
-  🌍 Based in Portugal<br>
-  🎓 Estudante de Engenharia de Software<br>
-  💼 Técnico de Informática<br>
-  ⚡ Fun fact: [algo interessante sobre ti]
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Computer+Technician;Always+learning+new+things;Open+to+collaborate+on+projects" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔭 Sobre mim
-Sou um estudante apaixonado por tecnologia, sempre à procura de novos desafios e oportunidades para aprender. Adoro transformar ideias em código e criar projetos que resolvem problemas reais.
+🎯 **Current Focus:** Building my skills in [área específica]  
+🌱 **Learning:** [tecnologias]  
+💬 **Ask me about:** [temas que dominas]  
+⚡ **Fun fact:** [algo interessante]  
 
-### 🌱 Neste momento estou...
-- A aprofundar conhecimentos em [área específica]
-- A desenvolver [tipo de projetos]
-- Aberto a colaborações e novos projetos
-
-### 📫 Como me encontrar
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncalo6silvaa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-link)
+### 🔥 My Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goncalosilva6&theme=dark" alt="GitHub Streak"/>
+</p>
