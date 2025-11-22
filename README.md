@@ -19,6 +19,7 @@
 - 🌍 Living in **Porto, Portugal**
 - 🔭 Currently working on **[projeto atual]**
 <br clear="right"/>
+
 ### 🛠️ Tech Stack
 
 <details>
