@@ -10,7 +10,7 @@
 <!-- adiciona as tuas tecnologias -->
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalosilva6&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalos6ilvaa&show_icons=true&theme=dark)
 
 ## 📫 Contacto
 📧 [goncalo6silvaa@gmail.com](mailto:goncalo6silvaa@gmail.com)  
