@@ -1,8 +1,6 @@
 # 👨🏽‍💻 Gonçalo Silva
 
-<!--**`Computer Engineering Student`**-->
-
----
+**`Computer Engineering Student`**
 
 ### 🎓 About me:
 
