@@ -2,7 +2,7 @@
 
 **`Computer Engineering Student`**
 
-### 🎓 About me:
+<h2>🎓 About me:</h2>
 
 🎓 Studying **Computer Engineering** at ISLA Gaia<br/>
 💼 Working as a **Computer Technician**<br/>
