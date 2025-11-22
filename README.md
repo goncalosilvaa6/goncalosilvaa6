@@ -1,17 +1,24 @@
-<h1 align="center">Hi 👋, I'm Gonçalo Silva</h1>
+```bash
+$ whoami
+goncalosilva6
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Computer+Technician;Always+learning+new+things;Open+to+collaborate+on+projects" alt="Typing SVG" />
-</p>
+$ cat about.txt
+👨‍💻 Software Engineering Student
+🇵🇹 Based in Portugal
+💼 Computer Technician
+🎯 Passionate about clean code and innovative solutions
 
----
+$ ls skills/
+programming/     web-development/     databases/     tools/
 
-🎯 **Current Focus:** Building my skills in [área específica]  
-🌱 **Learning:** [tecnologias]  
-💬 **Ask me about:** [temas que dominas]  
-⚡ **Fun fact:** [algo interessante]  
+$ cat currently_learning.log
+[2024] Exploring new technologies
+[2024] Building cool projects
+[2024] Contributing to open source
 
-### 🔥 My Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goncalosilva6&theme=dark" alt="GitHub Streak"/>
-</p>
+$ echo $CONTACT
+Email: goncalo6silvaa@gmail.com
+LinkedIn: [your-profile]
+
+$ exit
+```
