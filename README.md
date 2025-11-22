@@ -46,10 +46,10 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goncalosilva6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalosilva6&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goncalosilvaa6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalosilvaa6&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://github.com/goncalosilva6/goncalosilva6/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/goncalosilvaa6/goncalosilvaa6/blob/output/github-contribution-grid-snake.svg)
