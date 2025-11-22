@@ -1,71 +1,82 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=GONÇALO%20SILVA&fontSize=70&color=0:8871e5,100:b490f5&stroke=b490f5" />
-</p>
+# 🎮 Choose Your Path
 
-<h3 align="center">⚡ SOFTWARE ENGINEER IN TRAINING ⚡</h3>
+<details>
+<summary>📖 About Me</summary>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goncalosilva6&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
-</p>
+Hey! I'm Gonçalo, a Software Engineering student based in Portugal. 
+
+I love turning coffee ☕ into code 💻 and solving problems that make a difference!
+
+**Quick Facts:**
+- 🎓 Studying Software Engineering
+- 💼 Computer Technician
+- 🌍 Portugal
+- 🚀 Always learning something new
+
+</details>
+
+<details>
+<summary>💻 Tech Stack</summary>
+<br>
+
+**Languages I Speak:**
+```python
+languages = {
+    'proficient': ['JavaScript', 'Python'],
+    'learning': ['TypeScript', 'Go'],
+    'want_to_learn': ['Rust', 'Kotlin']
+}
+```
+
+**Tools I Use:**
+- Git & GitHub
+- VS Code
+- Docker
+- And many more...
+
+</details>
+
+<details>
+<summary>🎯 Current Goals</summary>
+<br>
+
+- [ ] Master React ecosystem
+- [ ] Contribute to 5 open source projects
+- [ ] Build a SaaS product
+- [ ] Learn DevOps practices
+- [ ] Get AWS certification
+
+</details>
+
+<details>
+<summary>📊 GitHub Stats</summary>
+<br>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=goncalosilva6&theme=tokyonight&show_icons=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=goncalosilva6&theme=tokyonight)
+
+</details>
+
+<details>
+<summary>📬 Contact Me</summary>
+<br>
+
+Want to collaborate or just chat about tech?
+
+- 📧 Email: goncalo6silvaa@gmail.com
+- 💼 LinkedIn: [Connect with me](your-link)
+- 🌐 Portfolio: [Coming soon...]
+
+</details>
 
 ---
 
 <div align="center">
 
-### ⚙️ SYSTEM STATUS
+### 💭 Random Dev Quote
 
-`[████████████████████░] 95% Loaded`
-
-**STATUS:** `ONLINE` | **MODE:** `LEARNING` | **LOCATION:** `PORTUGAL`
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
-### 🔮 CURRENT MISSIONS
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Gonçalo Silva"
-        self.role = "Software Engineering Student"
-        self.location = "Portugal"
-        self.languages = ["Python", "JavaScript", "Java"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = Developer()
-me.say_hi()
-```
-
-### 🎯 SKILL TREE
-
-<details>
-<summary>⚡ Expand Skills</summary>
-<br>
-
-**Programming Languages**
-- 🟦 JavaScript/TypeScript
-- 🐍 Python
-- ☕ Java
-
-**Frameworks & Libraries**
-- ⚛️ React
-- 🟢 Node.js
-- 🎨 TailwindCSS
-
-**Tools & Platforms**
-- 🐙 Git/GitHub
-- 🐳 Docker
-- ☁️ AWS
-
-</details>
-
-### 📡 COMMUNICATIONS CHANNEL
-
-<p align="center">
-  <a href="mailto:goncalo6silvaa@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-HERE-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" />
-  </a>
-  <a href="your-linkedin">
-    <img src="https://img.shields.io/badge/CONNECT-HERE-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" />
-  </a>
-</p>
