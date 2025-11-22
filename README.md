@@ -1,35 +1,28 @@
-```javascript
-const goncalo = {
-    name: "Gonçalo Silva",
-    location: "Portugal 🇵🇹",
-    education: "Software Engineering Student",
-    currentRole: "Computer Technician",
-    
-    code: ["JavaScript", "Python", "Java", "C++"],
-    technologies: {
-        frontEnd: ["React", "HTML", "CSS"],
-        backEnd: ["Node.js", "Express"],
-        databases: ["MySQL", "MongoDB"],
-        tools: ["Git", "VS Code", "Docker"]
-    },
-    
-    currentlyLearning: ["Cloud Computing", "DevOps"],
-    hobbies: ["Gaming", "Tech Blogs", "Open Source"],
-    
-    contact: {
-        email: "goncalo6silvaa@gmail.com",
-        linkedin: "your-profile"
-    },
-    
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+<h1 align="center">Hi 👋, I'm Gonçalo Silva</h1>
+<h3 align="center">A passionate Software Engineering Student from Portugal 🇵🇹</h3>
 
-<div align="center">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
+- 🔭 I'm currently working on **[Nome do Projeto]**
 
-[![GitHub Followers](https://img.shields.io/github/followers/goncalosilva6?style=social)](https://github.com/goncalosilva6)
-[![GitHub Stars](https://img.shields.io/github/stars/goncalosilva6?style=social)](https://github.com/goncalosilva6)
+- 🌱 I'm currently learning **React Native, Docker, AWS**
 
-</div>
+- 👨‍💻 All of my projects are available at **[your-portfolio.com]**
+
+- 💬 Ask me about **JavaScript, Python, Web Dev**
+
+- 📫 How to reach me **goncalo6silvaa@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny but my code says otherwise**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<!-- Adiciona ícones das tecnologias que usas -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goncalosilva6&show_icons=true&locale=en&layout=compact&theme=dark" alt="goncalosilva6" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goncalosilva6&show_icons=true&locale=en&theme=dark" alt="goncalosilva6" /></p>
