@@ -11,7 +11,7 @@
 📧 Email me at goncalo6silvaa@gmail.com.<br/>
 🔗 [Linkedin profile](https://www.linkedin.com/in/goncalosilvaa6).<br/>
 
-<!-- ## Skills
+## Skills
 <div style="display: inline_block">
     <img align="center" alt="html" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="css" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -25,4 +25,4 @@
     <img align="center" alt="mysql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" alt="canva" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
     <img align="center" alt="figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div> -->
+</div>
