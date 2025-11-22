@@ -5,7 +5,7 @@
 **`Computer Engineering Student`**
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:goncalo6silvaa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/goncalosilvaa6/)
 
 </div>
 
@@ -17,9 +17,7 @@
 - 💼 Working as a **Computer Technician**
 - 🌍 Living in **Porto, Portugal**
 - 🔭 Currently working on **[projeto atual]**
-
 <br clear="right"/>
-
 ### 🛠️ Tech Stack
 
 <details>
