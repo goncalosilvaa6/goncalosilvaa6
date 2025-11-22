@@ -18,7 +18,6 @@
 - 💼 Working as a **Computer Technician**
 - 🌍 Living in **Porto, Portugal**
 - 🔭 Currently working on **[projeto atual]**
-<br clear="right"/>
 
 ### 🛠️ Tech Stack
 
