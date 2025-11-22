@@ -2,8 +2,6 @@
 
 **`Computer Engineering Student`**
 
-<h2>🎓 About me:</h2>
-
 🎓 Studying **Computer Engineering** at ISLA Gaia<br/>
 💼 Working as a **Computer Technician**<br/>
 🌍 Living in **Porto, Portugal**<br/>
