@@ -1,28 +1,23 @@
-## ✌️Hi there! I am Gonçalo Silva!
+<h1 align="center">👨‍💻 Gonçalo Silva</h1>
+<h3 align="center">Software Engineering Student | Tech Enthusiast</h3>
 
-### 🎓 About me:
+<p align="center">
+  🌍 Based in Portugal<br>
+  🎓 Estudante de Engenharia de Software<br>
+  💼 Técnico de Informática<br>
+  ⚡ Fun fact: [algo interessante sobre ti]
+</p>
 
-🌍 Based in Portugal.<br/>
-📚 I'm studying to graduate in Software Engineering.<br/>
-🎓 Computer technician.<br/>
+---
 
-### 📫 Get in touch:
+### 🔭 Sobre mim
+Sou um estudante apaixonado por tecnologia, sempre à procura de novos desafios e oportunidades para aprender. Adoro transformar ideias em código e criar projetos que resolvem problemas reais.
 
-📧 Email me at goncalo6silvaa@gmail.com.<br/>
-🔗 [Linkedin profile](https://www.linkedin.com/in/goncalosilvaa6).<br/>
+### 🌱 Neste momento estou...
+- A aprofundar conhecimentos em [área específica]
+- A desenvolver [tipo de projetos]
+- Aberto a colaborações e novos projetos
 
-## Skills
-<div style="display: inline_block">
-    <img align="center" alt="html" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="css" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="javascript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" alt="c" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img align="center" alt="c#" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img align="center" alt="kotlin" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img align="center" alt="firebase" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-    <img align="center" alt="php" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img align="center" alt="mysql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="canva" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-    <img align="center" alt="figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div>
+### 📫 Como me encontrar
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncalo6silvaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-link)
