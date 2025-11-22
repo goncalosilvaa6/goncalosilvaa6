@@ -6,22 +6,17 @@
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:goncalo6silvaa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](your-portfolio)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ### 👨‍💻 About Me
 
-- 🎓 Studying **Software Engineering**
+- 🎓 Studying **Computer Engineering** at ISLA Gaia
 - 💼 Working as a **Computer Technician**
-- 🌍 Living in **Portugal**
+- 🌍 Living in **Porto, Portugal**
 - 🔭 Currently working on **[projeto atual]**
-- 👯 Looking to collaborate on **interesting projects**
-- 💬 Ask me about **[tuas áreas]**
 
 <br clear="right"/>
 
@@ -42,14 +37,3 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 </details>
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goncalosilvaa6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalosilvaa6&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-### 🐍 Contribution Graph
-
-![Snake animation](https://github.com/goncalosilvaa6/goncalosilvaa6/blob/output/github-contribution-grid-snake.svg)
