@@ -17,7 +17,7 @@
 - 🎓 Studying **Computer Engineering** at ISLA Gaia
 - 💼 Working as a **Computer Technician**
 - 🌍 Living in **Porto, Portugal**
-- 🔭 Currently working on **[projeto atual]**
+- 🔭 A aprofundar conhecimentos em **JavaScript**
 
 ### 🛠️ Tech Stack
 
