@@ -1,8 +1,8 @@
-<div align="center">
+<div>
 
-# 🚀 Gonçalo Silva
+# 👨🏽‍💻 Gonçalo Silva
 
-**`Software Engineering Student | Tech Enthusiast | Problem Solver`**
+**`Computer Engineering Student`**
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:goncalo6silvaa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-link)
