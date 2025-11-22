@@ -4,8 +4,9 @@
 
 **`Computer Engineering Student`**
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:goncalo6silvaa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/goncalosilvaa6/)
+<a href="https://www.instagram.com/goncalosilvaa6/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/goncalosilvaa6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=goncalo6silvaa@gmail.com&su=Insira+o+motivo+de+contacto!" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
