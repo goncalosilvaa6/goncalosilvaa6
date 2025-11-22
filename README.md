@@ -1,27 +1,35 @@
-# 👋 Gonçalo Silva
-
-## 🗺️ My Journey
-```mermaid
-graph LR
-    A[Computer Technician] --> B[Software Engineering Student]
-    B --> C[Building Projects]
-    C --> D[Contributing to Open Source]
-    D --> E[Your Future Here]
+```javascript
+const goncalo = {
+    name: "Gonçalo Silva",
+    location: "Portugal 🇵🇹",
+    education: "Software Engineering Student",
+    currentRole: "Computer Technician",
+    
+    code: ["JavaScript", "Python", "Java", "C++"],
+    technologies: {
+        frontEnd: ["React", "HTML", "CSS"],
+        backEnd: ["Node.js", "Express"],
+        databases: ["MySQL", "MongoDB"],
+        tools: ["Git", "VS Code", "Docker"]
+    },
+    
+    currentlyLearning: ["Cloud Computing", "DevOps"],
+    hobbies: ["Gaming", "Tech Blogs", "Open Source"],
+    
+    contact: {
+        email: "goncalo6silvaa@gmail.com",
+        linkedin: "your-profile"
+    },
+    
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
 ```
 
-### 📍 Where I Am Now
-- 🎓 **Education:** Software Engineering Student
-- 💼 **Current Role:** Computer Technician
-- 🌍 **Location:** Portugal
-- 🎯 **Goal 2024:** [teu objetivo]
+<div align="center">
 
-### 🎯 2024 Goals Progress
-```text
-Master Data Structures     ████████░░ 80%
-Learn Cloud Computing      ██████░░░░ 60%
-Build 5 Projects           ████░░░░░░ 40%
-Contribute to Open Source  ██░░░░░░░░ 20%
-```
+### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-### 📫 Let's Connect
-📧 goncalo6silvaa@gmail.com | 💼 [LinkedIn](link)
+[![GitHub Followers](https://img.shields.io/github/followers/goncalosilva6?style=social)](https://github.com/goncalosilva6)
+[![GitHub Stars](https://img.shields.io/github/stars/goncalosilva6?style=social)](https://github.com/goncalosilva6)
+
+</div>
