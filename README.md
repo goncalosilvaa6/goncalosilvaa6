@@ -1,7 +1,7 @@
-<h1 align="center">👨‍💻 Gonçalo Silva</h1>
-<h3 align="center">Software Engineering Student | Tech Enthusiast</h3>
+<h1>👨‍💻 Gonçalo Silva</h1>
+<h3>Software Engineering Student | Tech Enthusiast</h3>
 
-<p align="center">
+<p>
   🌍 Based in Portugal<br>
   🎓 Estudante de Engenharia de Software<br>
   💼 Técnico de Informática<br>
