@@ -12,9 +12,9 @@
 
 ---
 
-🎓 Studying **Computer Engineering** at ISLA Gaia
-💼 Working as a **Computer Technician**
-🌍 Living in **Porto, Portugal**
+🎓 Studying **Computer Engineering** at ISLA Gaia <br/>
+💼 Working as a **Computer Technician** <br/>
+🌍 Living in **Porto, Portugal** <br/>
 🔭 A aprofundar conhecimentos em **JavaScript**
 
 <!--
