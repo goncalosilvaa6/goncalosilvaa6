@@ -1,28 +1,71 @@
-<h1 align="center">Hi 👋, I'm Gonçalo Silva</h1>
-<h3 align="center">A passionate Software Engineering Student from Portugal 🇵🇹</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🔭 I'm currently working on **[Nome do Projeto]**
-
-- 🌱 I'm currently learning **React Native, Docker, AWS**
-
-- 👨‍💻 All of my projects are available at **[your-portfolio.com]**
-
-- 💬 Ask me about **JavaScript, Python, Web Dev**
-
-- 📫 How to reach me **goncalo6silvaa@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny but my code says otherwise**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<!-- Adiciona ícones das tecnologias que usas -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=GONÇALO%20SILVA&fontSize=70&color=0:8871e5,100:b490f5&stroke=b490f5" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goncalosilva6&show_icons=true&locale=en&layout=compact&theme=dark" alt="goncalosilva6" /></p>
+<h3 align="center">⚡ SOFTWARE ENGINEER IN TRAINING ⚡</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goncalosilva6&show_icons=true&locale=en&theme=dark" alt="goncalosilva6" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=goncalosilva6&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
+</p>
+
+---
+
+<div align="center">
+
+### ⚙️ SYSTEM STATUS
+
+`[████████████████████░] 95% Loaded`
+
+**STATUS:** `ONLINE` | **MODE:** `LEARNING` | **LOCATION:** `PORTUGAL`
+
+</div>
+
+### 🔮 CURRENT MISSIONS
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Gonçalo Silva"
+        self.role = "Software Engineering Student"
+        self.location = "Portugal"
+        self.languages = ["Python", "JavaScript", "Java"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+
+me = Developer()
+me.say_hi()
+```
+
+### 🎯 SKILL TREE
+
+<details>
+<summary>⚡ Expand Skills</summary>
+<br>
+
+**Programming Languages**
+- 🟦 JavaScript/TypeScript
+- 🐍 Python
+- ☕ Java
+
+**Frameworks & Libraries**
+- ⚛️ React
+- 🟢 Node.js
+- 🎨 TailwindCSS
+
+**Tools & Platforms**
+- 🐙 Git/GitHub
+- 🐳 Docker
+- ☁️ AWS
+
+</details>
+
+### 📡 COMMUNICATIONS CHANNEL
+
+<p align="center">
+  <a href="mailto:goncalo6silvaa@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-HERE-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" />
+  </a>
+  <a href="your-linkedin">
+    <img src="https://img.shields.io/badge/CONNECT-HERE-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" />
+  </a>
+</p>
