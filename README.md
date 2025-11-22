@@ -1,17 +1,23 @@
-# 👋 Olá! Sou o Gonçalo Silva
+<h1 align="center">👨‍💻 Gonçalo Silva</h1>
+<h3 align="center">Software Engineering Student | Tech Enthusiast</h3>
 
-🎓 Estudante de Engenharia de Software em Portugal  
-💻 Técnico de Informática apaixonado por tecnologia  
-🚀 Sempre a aprender e a construir novos projetos
+<p align="center">
+  🌍 Based in Portugal<br>
+  🎓 Estudante de Engenharia de Software<br>
+  💼 Técnico de Informática<br>
+  ⚡ Fun fact: [algo interessante sobre ti]
+</p>
 
-## 🛠️ Tecnologias & Ferramentas
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-<!-- adiciona as tuas tecnologias -->
+---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalos6ilvaa&show_icons=true&theme=dark)
+### 🔭 Sobre mim
+Sou um estudante apaixonado por tecnologia, sempre à procura de novos desafios e oportunidades para aprender. Adoro transformar ideias em código e criar projetos que resolvem problemas reais.
 
-## 📫 Contacto
-📧 [goncalo6silvaa@gmail.com](mailto:goncalo6silvaa@gmail.com)  
-💼 [LinkedIn](seu-link-linkedin)
+### 🌱 Neste momento estou...
+- A aprofundar conhecimentos em [área específica]
+- A desenvolver [tipo de projetos]
+- Aberto a colaborações e novos projetos
+
+### 📫 Como me encontrar
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncalo6silvaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-link)
