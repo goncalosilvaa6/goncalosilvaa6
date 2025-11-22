@@ -12,13 +12,12 @@
 
 ---
 
-### 👨‍💻 About Me
+🎓 Studying **Computer Engineering** at ISLA Gaia
+💼 Working as a **Computer Technician**
+🌍 Living in **Porto, Portugal**
+🔭 A aprofundar conhecimentos em **JavaScript**
 
-- 🎓 Studying **Computer Engineering** at ISLA Gaia
-- 💼 Working as a **Computer Technician**
-- 🌍 Living in **Porto, Portugal**
-- 🔭 A aprofundar conhecimentos em **JavaScript**
-
+<!--
 ### 🛠️ Tech Stack
 
 <details>
@@ -36,3 +35,4 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 </details>
+-->
