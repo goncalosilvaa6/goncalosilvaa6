@@ -1,22 +1,21 @@
-<div>
-
 # 👨🏽‍💻 Gonçalo Silva
 
 **`Computer Engineering Student`**
 
-<a href="https://www.instagram.com/goncalosilvaa6/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/goncalosilvaa6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=goncalo6silvaa@gmail.com&su=Insira+o+motivo+de+contacto!" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-</div>
-
 ---
+
+### 🎓 About me:
 
 🎓 Studying **Computer Engineering** at ISLA Gaia<br/>
 💼 Working as a **Computer Technician**<br/>
 🌍 Living in **Porto, Portugal**<br/>
 🔭 A aprofundar conhecimentos em **JavaScript**<br/>
 
+---
+
+<a href="https://www.instagram.com/goncalosilvaa6/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/goncalosilvaa6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=goncalo6silvaa@gmail.com&su=Insira+o+motivo+de+contacto!" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!--
 ### 🛠️ Tech Stack
 
