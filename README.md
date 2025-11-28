@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Gonçalo Silva
 
-**`Junior Full-Stack Developer`**
+**`Aspiring Junior Full-Stack Developer`**
 
 🎓 Studying **Computer Engineering** at ISLA Gaia<br/>
 💼 Working as a **Computer Technician**<br/>
