@@ -3,7 +3,6 @@
 **`Aspiring Junior Full-Stack Developer`**
 
 🎓 Studying **Computer Engineering** at ISLA Gaia<br/>
-💼 Working as a **Computer Technician**<br/>
 🌍 Living in **Porto, Portugal**<br/>
 
 <a href="https://www.instagram.com/goncalosilvaa6/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
